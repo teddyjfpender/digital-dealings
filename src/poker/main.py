@@ -182,7 +182,7 @@ def run_game(player_one_details, player_two_details):
     # Basic historical game winning statistics 
     stats = calculate_player_stats(balances)
     # We keep track of the last public message from each player
-    public_dealer_chat = f"""This is game number is {balances[player_one.name][-1][0] + 1} and as it stands the {player_one.name} has won {stats[player_one.name]["percentage_win"]}% of their games and the {player_two.name} has won {stats[player_two.name]["percentage_win"]}% of their games."""
+    public_dealer_chat = f"""This is game number {balances[player_one.name][-1][0] + 1} and as it stands the {player_one.name} has won {stats[player_one.name]["percentage_win"]}% of their games and the {player_two.name} has won {stats[player_two.name]["percentage_win"]}% of their games."""
 
     logger.log("Dealer", "**GAME STARTS**")
     logger.log("Dealer", "Welcome to the game!")
