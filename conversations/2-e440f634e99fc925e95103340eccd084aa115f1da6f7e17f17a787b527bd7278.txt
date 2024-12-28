@@ -1,0 +1,32 @@
+** POKER GAME LOG **
+
+Dealer: **GAME STARTS**
+Dealer: Welcome to the game!
+Dealer: This is game number is 1 and as it stands the Jonny Meta has won None% of their games and the Professor Paradox has won None% of their games.
+Dealer: The game's commitment is 586fae4c9a01b681981f91e0fb7ef91d44472d0170d325bafba3bd3614e1eb66
+Dealer: The deck's merkle root is e440f634e99fc925e95103340eccd084aa115f1da6f7e17f17a787b527bd7278
+Dealer: **HOLE CARDS DEALT**
+Dealer: Jonny Meta's Hole Cards: ['3s', '7h']
+Dealer: Professor Paradox's Hole Cards: ['Ts', 'Jc']
+Jonny Meta-internal-monologue: (1) Alright, Jonny Meta, first hand, fresh start. Got a 3 of spades and a 7 of hearts. Not exactly the kind of opening hand that screams "power play," but we're just calling a small bet here. No need to go all-in or fold yet. Pre-flop, the game's wide open, and I've got chips to burn. I know that statistically, most hands don't connect with the flop, so I could catch something surprising. The opponent’s silent, no tells yet. Is the Professor Paradox strong or bluffing? No indicators. Let's just smooth-call and see what happens on the flop.
+Jonny Meta: Let's see what the flop has in store for us, opponent. Time to level up my game.
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) My opponent seems eager and confident, suggesting a potential bluff or a strong hand. As this is the first game, it's difficult to gauge their play style accurately. With Ts and Jc, I have a decent starting hand for potential straights or high pairs. Given the minimal bet to call and the opportunity to observe the flop, it makes sense to proceed cautiously. The philosophical dilemma here is akin to Schrödinger's cat: until the flop reveals itself, my hand is both strong and weak. I shall call to keep the pot manageable and gather more information post-flop.
+Professor Paradox: Ah, the mysteries of the flop await us, my dear opponent. Let us unravel them together with a touch of philosophical contemplation. I call to embrace the unknown and seek enlightenment in the cards.
+Professor Paradox-action: call
+Dealer: **FLOP DEALT**: ['Ah', 'Ks', '6d']
+Jonny Meta-internal-monologue: (1) Alright, Jonny Meta, let's dissect this situation. The Professor Paradox is waxing poetic about the flop, which could mean he's either genuinely reflecting or just trying to throw me off. My hole cards, 3 of spades and 7 of hearts, aren't connecting with the community cards Ah, Ks, 6d. Nothing here screams potential unless I somehow catch a miracle on the turn and river. The GTO probabilities aren't in my favor, with a high chance of losing this hand. The opponent's philosophical stance might be a cover for a strong hand, but it could equally be a bluff. With no strong read and the pot relatively small, it's tempting to take a chance just to see another card. The pot odds aren't great, but I can afford a small call to gather more intel on the Professor's play style. Let's keep it simple for now and see how the turn unfolds.
+Jonny Meta: "You talk a big game, Professor Paradox, but let's see if your philosophical contemplation translates to actual poker skill. I'll call and unravel this flop with you."
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) My opponent's eagerness and confidence may suggest a bluff, but it could also be indicative of a strong hand given the presence of high cards on the flop. With Ah and Ks on the board, the potential for them to have connected with a strong pair or even two pairs is plausible. However, my hand, Ts and Jc, leaves the door open for potential straight possibilities on later streets. The current GTO probabilities suggest a close win-lose ratio, with a slight edge towards losing, but the tie potential indicates some equity to consider. Philosophically, this situation embodies the idea of Pascal's Wager: do I act on the belief of a strong hand or a bluff? Given the minimal bet and the information to be gained, calling appears to be the optimal approach. This allows me to gather further data on their play style while keeping the pot small.
+Professor Paradox: "Ah, the mysteries of the flop unfold before us, revealing the potential paths of strategy and deception. I shall call and see where this philosophical journey takes us, dear opponent."
+Professor Paradox-action: call
+Dealer: **TURN DEALT**: 8d
+Jonny Meta-internal-monologue: (1) Alright, Jonny Meta, let's critically assess this situation. The Professor Paradox is waxing poetic, which feels like an attempt to project a calm, philosophical demeanor. This could be a cover for a strong hand, but given the GTO win probability of only 11.46%, it's risky to assume he's bluffing. My hand isn't showing any potential, and the turn card, 8d, doesn't help me at all. The pot odds don't justify a reckless call just to see the river. It's time to exercise discipline and fold, preserving chips for a stronger position. The Professor's antics are amusing, but I'll sit this one out and save my energy for a better opportunity.
+Jonny Meta: "Wtf are you babbling about, Professor Paradox? Save your philosophical musings for the losers while I focus on crushing this game."
+Jonny Meta-action: fold
+Dealer: Professor Paradox wins the pot immediately. Game over.
+Dealer: Game Over! Final stacks:
+Dealer: Jonny Meta: 9980.0
+Dealer: Professor Paradox: 10020.0
+Dealer: This game was seeded with the secret: d811241ae52a3110104506cf878c8f23de26e8e2f42a78d6f7195d7485ae16f3

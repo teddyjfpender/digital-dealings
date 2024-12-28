@@ -1,0 +1,12 @@
+# ignore pycache
+__pycache__/
+# ignore all pycache files everywhere
+**/__pycache__/*
+# ignore .env files
+.env
+# ignore the dir ./src/digital_dealings.egg-info
+src/digital_dealings.egg-info/
+# ignore demo blackjack
+src/blackjack/
+visualisations/blackjack/
+visualisations/blackjack.py

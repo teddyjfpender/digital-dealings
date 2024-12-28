@@ -1,0 +1,49 @@
+** POKER GAME LOG **
+
+Dealer: **GAME STARTS**
+Dealer: Welcome to the game!
+Dealer: This is game number is 3 and as it stands the Jonny Meta has won 0.0% of their games and the Professor Paradox has won 100.0% of their games.
+Dealer: The game's commitment is efbc7dbbb4e2b2692b1fa6b51db0e81dad7997127c751e9016e0c315d66a4033
+Dealer: The deck's merkle root is 24df443aa2cb192b58ecbb717e9bac46a7ce336533af5390d44071c4980ddb30
+Dealer: **HOLE CARDS DEALT**
+Dealer: Jonny Meta's Hole Cards: ['Tc', '2c']
+Dealer: Professor Paradox's Hole Cards: ['Kd', '7d']
+Jonny Meta-internal-monologue: (1) Alright, Jonny Meta, focus up. The Professor Paradox has been dominating so far, but this is just the third game. Pre-flop with a 10 of clubs and 2 of clubs is not the strongest starting hand, but it's not the worst either. The pot is currently empty, and the bet to call is just 10. No significant risk here, just a small investment to see the flop. The opponent hasn't made any aggressive moves yet, so there's no indication they're holding something strong. They might be trying to bully with their larger stack, but let's not show any weakness. It's early, and I can afford to see what the flop brings.
+Jonny Meta: Let's see what the flop has in store for us, time to level up!
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) My opponent, Jonny Meta, seems eager for the flop, which could indicate a strong hand or simply an eagerness to see the community cards. Given their 0% win rate so far, it's possible they're trying to change their strategy by being more aggressive. However, with my King and Seven of diamonds, I have potential for a strong flush, straight, or high pair post-flop. The current bet is minimal at 10.0, and calling would not significantly impact my chip count. As a retired philosophy professor, I must consider the paradox of potential versus reality—do I invest now for future gains, or conserve resources for a more certain opportunity? The pot odds and my current chip lead suggest a call is the most prudent action, allowing me to gather more information from the flop without overcommitting.
+Professor Paradox: Ah, the allure of the unknown on the horizon. I shall accompany you on this journey, Jonny Meta, with a humble call.
+Professor Paradox-action: call
+Dealer: **FLOP DEALT**: ['5c', '5d', 'Qd']
+Jonny Meta-internal-monologue: (1) Alright, Jonny, let's think this through. The Professor Paradox has been winning consistently, but that could mean they're getting lucky or they're just that good. Their stack is larger, so they might feel more comfortable playing a wider range of hands. The flop with 5c, 5d, Qd doesn't immediately suggest a strong hand unless they're holding a Queen or a pair of 5s. My two clubs give me a potential flush draw, but it's weak right now. The GTO solver suggests a low win probability, but there's also a decent chance to tie. The Professor's language seems cryptic and could indicate a bluff or just typical mind games. Given the low bet to call and the potential to see the turn, let's take a calculated risk and call. There's no need to raise yet; let's gather more information before making a bigger decision.
+Jonny Meta: Let's see where this adventure takes us, Professor Paradox. I'll join you with a call. Let's keep this game interesting.
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) Given Jonny Meta's eagerness and his previous statement, it seems he might be trying to project confidence, possibly hinting at a strong hand. However, his lack of wins and the nature of his comments suggest he might be overcompensating, potentially bluffing or semi-bluffing. The flop presents a promising scenario for me, with a flush draw and potential for a high pair. The GTO probabilities indicate a favorable win rate. With my current chip stack, it is advantageous to continue in the hand to see further developments. The minimal bet to call does not threaten my chip lead, allowing me to proceed without significant risk. The paradox lies in evaluating the tangible strength of my hand versus the potential of Jonny's perceived strategy shift. Thus, calling seems the optimal choice to gather more insight without overcommitting resources.
+Professor Paradox: Ah, the river of uncertainty flows through us all, Jonny Meta. I shall match your call and let the currents of fate guide us in this hand.
+Professor Paradox-action: call
+Dealer: **TURN DEALT**: 3d
+Jonny Meta-internal-monologue: (1) Given the current state of the game and the Professor Paradox's cryptic language, it's difficult to ascertain the strength of their hand. The fact that they have merely called suggests they might not have a strong hand, but they could be slow-playing a monster or trying to induce a bluff. Their larger stack allows them to play more flexibly. My hand is weak with a low probability of winning, and the potential flush is unlikely to hit. However, the bet to call is minimal. If the river doesn't improve my hand, I'll have to reevaluate. For now, there's little risk in continuing with the hand. Let's see what the river brings and perhaps catch them in a bluff.
+Jonny Meta: Let's see what fate has in store on this river, Professor Paradox. I'm ready for whatever challenge awaits. Let's dance.
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) My opponent, Jonny Meta, seems to be projecting a level of confidence that is inconsistent with his 0% win rate. His eagerness and enthusiastic statements suggest he may be trying to mask uncertainty or a weaker hand. The presence of two diamonds and a pair on the board creates a promising scenario for my King and Seven of diamonds, as I have a flush draw and a potential high pair. The Game Theory Optimal probabilities are heavily in my favor, with a 92.67% win rate. This, combined with my chip lead, suggests an aggressive move might capitalize on Jonny's potential bluff and exert pressure, possibly forcing a fold. However, there's also the paradox of overextending in a favorable position. Given the minimal bet, a raise could maximize my advantage while still remaining a calculated risk. I will raise to increase the pressure and test the strength of Jonny's hand. 
+
+(2) raise
+Professor Paradox: Ah, Jonny Meta, it seems fate has dealt us an intriguing hand indeed. Let us raise the stakes and see where this philosophical dance takes us.
+Professor Paradox-action: raise to 100
+Dealer: **RIVER DEALT**: 7s
+Jonny Meta-internal-monologue: (1) Despite the Professor's cryptic language and philosophical musings, their actions on this hand have been relatively passive. They've merely called up until now, which could indicate they're playing with a medium-strength hand or attempting to trap me with a stronger one. The board is quite dangerous with a possible flush and straight draw, and my hand is notably weak with only a high card and a potential bluff catcher. The chances of winning this hand based on GTO are low, so logically, folding would be the disciplined move. However, my gaming instincts are itching to see if the Professor is indeed attempting a bluff. This could be an opportunity to catch them off guard. Given the pot odds and the minimal bet required to call, it might be worth the risk to challenge their narrative and see the showdown. My ego as a high-stakes crusher compels me to take the chance here, even if it's not strictly GTO. Let's call and see if this river card was truly nerfed.
+Jonny Meta: Let's see if fate is truly on your side, Professor. I'll match your call and test the waters of this philosophical dance. Time to show you what a real high stakes crusher can do.
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) Analyzing Jonny Meta's behavior reveals a curious paradox: his assertive language juxtaposed with a 0% win rate suggests a bluff or a shift in strategy. The board offers a flush with my King of diamonds, and the Game Theory Optimal probabilities heavily favor me with a 96.87% win rate. While Jonny's statements could indicate confidence, they might also be an attempt to mask uncertainty. Given my chip lead and the board's strength, an aggressive play could capitalize on this perceived bluff. A significant raise could pressure Jonny into folding, increasing my chip advantage. However, overextending could be risky if he holds a full house. Nonetheless, the probabilities support an assertive strategy here. Therefore, I will raise to test Jonny's resolve and potentially take down the pot.
+
+(2) raise
+Professor Paradox: Ah, Jonny Meta, the river of fate flows ever onward. I raise, inviting you to test the waters of this philosophical dance with me. Let's see where the currents take us.
+Professor Paradox-action: raise to 500
+Dealer: Final probabilities: {'win': 0.0, 'lose': 1.0, 'tie': 0.0, 'total_hands': 1}
+Dealer: Game Over - The Winner is ...
+Dealer: Professor Paradox!
+Dealer: Game Over! Final stacks:
+Dealer: Jonny Meta: 6550.0
+Dealer: Professor Paradox: 11980.0
+Dealer: This game was seeded with the secret: 397a2f38974bb4c9cbbb8e7b385230c1e4c518c2acab8204a827b4f9a0d93d83
+Dealer: Thanks for playing, see you next time!

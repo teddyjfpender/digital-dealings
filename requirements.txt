@@ -1,0 +1,6 @@
+matplotlib
+tqdm
+langchain
+langchain-community
+openai
+git+https://github.com/tierion/pymerkletools.git@f10d71e2cd529a833728e836dc301f9af502d0b0#egg=merkletools

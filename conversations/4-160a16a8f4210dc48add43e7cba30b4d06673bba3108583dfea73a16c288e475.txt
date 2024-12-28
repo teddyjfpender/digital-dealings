@@ -1,0 +1,28 @@
+** POKER GAME LOG **
+
+Dealer: **GAME STARTS**
+Dealer: Welcome to the game!
+Dealer: This is game number is 4 and as it stands the Jonny Meta has won 0.0% of their games and the Professor Paradox has won 100.0% of their games.
+Dealer: The game's commitment is e130b35545865d4fb0648442cf5f3830859062860bac2d5d75f030b4aa5a8b6c
+Dealer: The deck's merkle root is 160a16a8f4210dc48add43e7cba30b4d06673bba3108583dfea73a16c288e475
+Dealer: **HOLE CARDS DEALT**
+Dealer: Jonny Meta's Hole Cards: ['9d', '4d']
+Dealer: Professor Paradox's Hole Cards: ['Qc', '5s']
+Jonny Meta-internal-monologue: (1) Alright, Jonny, time to get into the zone. Those 9d and 4d aren't exactly pocket rockets, but they’re suited. The Professor Paradox has been dominating so far, which could mean they're either really strong or just bullying me with aggressive plays. Their chip lead gives them room to bluff, but given their track record, they might also be holding something solid. With the pot at zero and only 10 to call, it's not a huge risk to see the flop. My instincts tell me to see what the community cards bring. Time to channel that ex-pro gamer mindset and play this like a boss battle. Let's try to level up here and not let the Paradox get in my head.
+Jonny Meta: Let's see what the flop has in store, time to level up and crush this boss battle!
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) Jonny Meta's bravado in referring to the flop as a 'boss battle' suggests a certain level of confidence, or perhaps an attempt to project strength. Given their chip lead, they might feel emboldened to intimidate me. However, their 0% win rate against me thus far suggests they may be overcompensating. My hand, Qc 5s, isn't particularly strong, but it's early in the game with minimal chips at stake. A small call wouldn't be out of line with my strategy of empiricism overriding pure reason. The pot is small, and the bet is minimal, so calling to see the flop could provide valuable information on Jonny's tendencies today. If they are indeed bluffing, this small investment could pay off. Aristotle once noted that knowing yourself is the beginning of all wisdom—I know my style and their track record; let's proceed with caution to gather more data.
+Professor Paradox: Ah, the unfolding of the flop, a moment of philosophical reflection indeed. Let us proceed with prudence and curiosity to uncover the truths hidden within the cards.
+Professor Paradox-action: call
+Dealer: **FLOP DEALT**: ['Ac', 'Th', '3d']
+Jonny Meta-internal-monologue: (1) Alright, Jonny, let's analyze the situation. The flop isn't particularly favorable for me, but the 3d gives a glimmer of hope for a backdoor flush draw. The Professor Paradox's philosophical musings could be a tactic to mask their true intentions, but their chip lead and track record suggest they're playing strong hands. Given their tendency to dominate, they might be trying to maintain control with a decent hand like a top pair or even a straight draw. The pot is small, and calling 10 chips isn't a significant risk. I need more information about their hand. Given the odds and my penchant for taking calculated risks, it’s worth it to see the turn. Let's channel that gamer mentality, keep the pressure on, and see what the next card brings.
+Jonny Meta: Let's keep this game interesting, I'm ready to level up and see what the turn brings. Let's dance, Professor Paradox.
+Jonny Meta-action: call
+Professor Paradox-internal-monologue: (1) Jonny Meta's language continues to indicate a certain bravado, suggesting they might be attempting to mask an underlying uncertainty. Their willingness to frame the game as a 'boss battle' could imply they are bluffing, trying to create an image of strength and confidence. However, considering my hand of Qc 5s and the community cards (Ac, Th, 3d), my chances of improving are slim. The GTO probabilities indicate a relatively low win percentage for this hand. Given Jonny's chip lead, it might be pragmatic to proceed cautiously. Despite my philosophical leanings towards empiricism, the prudent choice here might be to fold. Although there is some value in calling the minimal bet to gather more information on Jonny's style, this hand does not present a strong opportunity to exploit a potential bluff. Folding now allows me to conserve my chips for a more favorable situation, aligning with the philosophical understanding that wisdom sometimes lies in restraint.
+Professor Paradox: Ah, Jonny Meta, the dance of uncertainty continues. Let us ponder the mysteries of the turn together. I shall fold this hand, for wisdom often resides in restraint.
+Professor Paradox-action: fold
+Dealer: Jonny Meta wins the pot immediately. Game over.
+Dealer: Game Over! Final stacks:
+Dealer: Jonny Meta: 6560.0
+Dealer: Professor Paradox: 11970.0
+Dealer: This game was seeded with the secret: 1d8c8b54fb8e8855a40d3ffea1ccd617ed62631696c8ef460baaf201f6a96f02
